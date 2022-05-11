@@ -5,3 +5,10 @@ img {
 img:hover {
   transform: scale(1.5);
 }
+h1 {
+  font-weight: 700;
+  transition: 0.8s;
+}
+h1:hover {
+  color: blue;
+}
